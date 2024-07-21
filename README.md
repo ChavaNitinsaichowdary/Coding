@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
