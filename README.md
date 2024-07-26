@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -290,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
