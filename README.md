@@ -277,16 +277,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Bit Manipulation
 |  |
@@ -296,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
