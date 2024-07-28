@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1720-crawler-log-folder) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
