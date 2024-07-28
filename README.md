@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2645-pass-the-pillow) |
