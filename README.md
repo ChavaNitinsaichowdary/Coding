@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +308,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
