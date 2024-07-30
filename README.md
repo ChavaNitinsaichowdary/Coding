@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
