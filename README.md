@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2645-pass-the-pillow) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -345,10 +348,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
