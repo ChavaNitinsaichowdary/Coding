@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2645-pass-the-pillow) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
