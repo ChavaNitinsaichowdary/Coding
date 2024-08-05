@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -343,9 +344,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
