@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0205-isomorphic-strings) |
@@ -354,12 +355,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0078-subsets) |
