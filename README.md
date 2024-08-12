@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
@@ -380,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
