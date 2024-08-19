@@ -1,19 +1,21 @@
 var timeLimit = function(fn, t) {
     return async function(...args) {
         return new Promise((resolve, reject) => {
-            const id = setTimeout(()=>reject("Time Limit Exceeded"),t);
-            const date = new Date();
+            const id = setTimeout(() => reject("Time Limit Exceeded"), t);
 
             fn(...args).then((result) => {
-                if (new Date() - date <= t) {
-                    clearTimeout(id);
-                    resolve(result);
-                } else {
-                    clearTimeout(id);
-                    reject("Time Limit Exceeded");
-                }
-            }).catch(reject);
+                clearTimeout(id);
+                resolve(result);
+            }).catch((error) => {
+                clearTimeout(id);
+                reject(error);
+            });
         });
     };
 };
 
+/**
+ * Example usage:
+ * const limited = timeLimit((t) => new Promise(res => setTimeout(res, t)), 100);
+ * limited(150).catch(console.log) // "Time Limit Exceeded" at t=100ms
+ */
