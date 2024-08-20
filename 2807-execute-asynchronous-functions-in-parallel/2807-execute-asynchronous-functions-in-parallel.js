@@ -3,7 +3,18 @@
  * @return {Promise<any>}
  */
 var promiseAll = function(functions) {
-    return Promise.all(functions.map(fn=>fn()))
+    return new Promise((resolve,reject)=>{
+        let res = [];
+        let count = 0;
+        for(let i = 0;i<functions.length;i++){
+            functions[i]().then(val=>{
+                res[i] = val;
+                count++;
+                if(count === functions.length)resolve(res);
+            }).catch(val=>reject(val));
+        }
+    })
+    
 };
 
 /**
