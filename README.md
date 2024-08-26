@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
