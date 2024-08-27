@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0078-subsets) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1720-crawler-log-folder) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
@@ -395,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
