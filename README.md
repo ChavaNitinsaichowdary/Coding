@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+| [0853-most-profit-assigning-work](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0853-most-profit-assigning-work](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0853-most-profit-assigning-work) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0853-most-profit-assigning-work](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
@@ -243,11 +246,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0726-number-of-atoms) |
+| [0853-most-profit-assigning-work](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
