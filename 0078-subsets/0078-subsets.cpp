@@ -10,7 +10,6 @@ public:
         vector<vector<int>> ns = helper(nums,v,index+1);
         v.push_back(nums[index]);
         vector<vector<int>> s = helper(nums,v,index+1);
-        v.pop_back();
         for(vector<int> t : ns){
             ans.push_back(t);
         }
