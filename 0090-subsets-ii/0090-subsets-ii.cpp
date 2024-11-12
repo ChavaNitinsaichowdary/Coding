@@ -1,22 +1,21 @@
 class Solution {
 public:
-    static void helper(int idx,vector<vector<int>>& ans,vector<int>& sub,vector<int>& nums){
-        if(idx==nums.size()){
-            if(find(ans.begin(),ans.end(),sub)==ans.end()){
-                ans.push_back(sub);
+    void helper(vector<int>& nums,vector<int> v,vector<vector<int>>& ans,int index){
+        if(index == nums.size()){
+            if(find(ans.begin(),ans.end(),v)==ans.end()){
+                ans.push_back(v);
             }
             return;
         }
-        helper(idx+1,ans,sub,nums);
-        sub.push_back(nums[idx]);
-        helper(idx+1,ans,sub,nums);
-        sub.pop_back();
+        helper(nums,v,ans,index+1);
+        v.push_back(nums[index]);
+        helper(nums,v,ans,index+1);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(),nums.end());
+        vector<int> v;
         vector<vector<int>> ans;
-        vector<int> sub;
-        helper(0,ans,sub,nums);
+        helper(nums,v,ans,0);
         return ans;
     }
 };
