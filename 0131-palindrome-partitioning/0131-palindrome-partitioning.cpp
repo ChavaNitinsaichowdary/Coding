@@ -1,35 +1,33 @@
 class Solution {
 public:
-    static bool isPalin(string& s,int i,int j){
+    bool isPalindrome(string s,int i,int j){
         while(i<j){
             if(s[i]==s[j]){
                 i++;
                 j--;
-            }
-            else{
+            } else {
                 return false;
             }
         }
         return true;
     }
-    static void helper(int idx,string& s,vector<string>& sub,vector<vector<string>>& ans){
-        if(idx==s.length()){
-           ans.push_back(sub);
+    void helper(int idx,vector<vector<string>>& ans,vector<string> v,string s){
+        if(idx==s.size()){
+            ans.push_back(v);
             return;
         }
-        for(int i = idx;i<s.length();i++){
-                string str = s.substr(idx,i-idx+1);
-                if(isPalin(s,idx,i)){
-                    sub.push_back(str);
-                    helper(i+1,s,sub,ans);
-                    sub.pop_back();
-                }
+        for(int i = idx;i<s.size();i++){
+            if(isPalindrome(s,idx,i)){
+                v.push_back(s.substr(idx,i-idx+1));
+                helper(i+1,ans,v,s);
+                v.pop_back();
+            }
         }
     }
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
-        vector<string> sub;
-        helper(0,s,sub,ans);
+        vector<string> v;
+        helper(0,ans,v,s);
         return ans;
     }
 };
