@@ -1,25 +1,29 @@
 class Solution {
 public:
-    map<int,string> mp = {{2,"abc"},{3,"def"},{4,"ghi"},{5,"jkl"},{6,"mno"},{7,"pqrs"},{8,"tuv"},{9,"wxyz"}};
-    void helper(int idx,string& t,string& digits,vector<string>& ans){
-        if(idx==digits.size()){
-            ans.push_back(t);
+    void helper(map<char,string> &mp,string &digits,int index,vector<string>& ans,string &sub){
+        if(index==digits.size()){
+            ans.push_back(sub);
             return;
         }
-
-        string curr = mp[digits[idx]-'0'];
-        for(int i = 0;i<curr.size();i++){
-            t.push_back(curr[i]);
-            helper(idx+1,t,digits,ans);
-            t.pop_back();
+        char ch = digits[index];
+        string letters = mp[ch];
+        for(char c : letters){
+            sub+=c;
+            helper(mp,digits,index+1,ans,sub);
+            sub.pop_back();
         }
     }
     vector<string> letterCombinations(string digits) {
+        map<char,string> mp;
+        mp['2'] = "abc";mp['3'] = "def";mp['4'] = "ghi";
+        mp['5'] = "jkl";mp['6'] = "mno";mp['7'] = "pqrs";
+        mp['8'] = "tuv";mp['9'] = "wxyz";
         vector<string> ans;
-        if(digits.empty())return ans;
-        string t;
-        helper(0,t,digits,ans);
+        if(digits.size()==0){
+            return ans;
+        }
+        string sub;
+        helper(mp,digits,0,ans,sub);
         return ans;
-
     }
 };
