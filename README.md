@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/2645-pass-the-pillow) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/ChavaNitinsaichowdary/Coding/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
